@@ -1,13 +1,5 @@
-## abhinandan.github.io
-Website source and server. 
+### In a Nutshell, this is the server for the website abhinandan.github.io. It is linked to www.abhinandan.ga. 
 
-## Abhinandan
-Abhinandan rubyteals . 
-Wanna know what's it?, Uh pen name. 
-
-## . 
-** .  **
-   .   
    
    
    
